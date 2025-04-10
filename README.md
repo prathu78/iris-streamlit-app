@@ -6,11 +6,11 @@ It predicts the type of Iris flower based on four input features.
 -- Features
 
 - User-friendly web app using **Streamlit**
-- Trained with **Random Forest** classifier
+- Trained with Random Forest classifier
 - Predicts between:
-  - Setosa 🌼
-  - Versicolor 🌺
-  - Virginica 🌻
+  - Setosa 
+  - Versicolor 
+  - Virginica 
 
 ---
  Requirements
